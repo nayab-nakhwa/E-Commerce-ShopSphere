@@ -68,3 +68,8 @@ The application integrates with the [FakeStore API](https://fakestoreapi.com) us
 | `/products/categories`   | GET    | Fetches available product categories |
 
 ---
+
+
+--Developer: Nayab Nakhwa
+--Email: nayabnakhwa1@gmail.com
+--GitHub: nayab-nakhwa

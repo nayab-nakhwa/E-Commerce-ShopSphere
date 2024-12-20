@@ -70,6 +70,14 @@ The application integrates with the [FakeStore API](https://fakestoreapi.com) us
 ---
 
 
+## **Installation and Setup**
+### **Prerequisites**
+- Node.js (v14+)
+- npm or yarn
+- A `.env` file for environment variables (if applicable)
+
+
+## **Contact Info**
 --Developer: Nayab Nakhwa
 --Email: nayabnakhwa1@gmail.com
 --GitHub: nayab-nakhwa
